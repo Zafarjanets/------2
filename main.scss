@@ -234,7 +234,6 @@
         .oo{
             img{
                 width: 50px;
-            
             }
         }
     }
@@ -261,6 +260,46 @@
 
     
 }
+
+
+.ol{
+    display: flex;
+    justify-content: center;
+    margin: 50px 0px;
+    gap: 20px;
+    border-bottom: 2px solid gray;
+    padding: 20px 0px;
+    box-sizing: border-box;
+    margin: 20px 250px ;
+    
+    
+
+}
+.flexing{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.oxir{
+    width: 270px;
+        img{
+            width: 250px;
+            margin: 10px 0px;
+        }
+        .kj{
+ display: flex;
+ gap: 10px;
+color: gray;
+         }
+         .sd{
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            img{
+                width: 50px;
+            }
+         }
+    }
 
 
 
