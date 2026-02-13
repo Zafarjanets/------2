@@ -160,6 +160,42 @@
         }
     }
 }
+.section-3{
+
+
+  h1{
+    width: 400px;
+    margin: 10px 0px;
+  }
+  input{
+    padding: 8px 10px;
+    width: 200px;
+    border-radius: 6px;
+    border: none;
+    border: 1px solid black;
+    outline: none;
+  }
+  button{
+    padding: 6px 20px;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    border: none        ;
+  }
+
+}
+.obshi-1{
+    display: flex;
+    justify-content: space-around;
+    .fg{
+
+        p{
+            width: 400px;
+            margin-top: 30px;
+        }
+    }
+}
+
 
 
 
