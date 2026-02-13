@@ -56,4 +56,92 @@
 }
 .all-1 .flex-oxir img {
   width: 50px;
+}
+
+.all-2 {
+  margin-top: 30px;
+  box-sizing: border-box;
+  margin: 30px 50px;
+  width: 70%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.all-2 .flex-1 {
+  display: flex;
+  gap: 20px;
+}
+.all-2 .flex {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.all-2 .width {
+  width: 340px;
+  margin: 10px 0px;
+}
+.all-2 .obshi {
+  margin-top: 20px;
+  margin-left: -20px;
+}
+.all-2 .oo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.section-2 {
+  display: flex;
+}
+
+.select-1 .q-1 {
+  display: flex;
+  align-items: center;
+  position: relative;
+  right: 40px;
+  top: 40px;
+}
+.select-1 .foto {
+  margin-top: 50px;
+  margin-left: -40px;
+}
+.select-1 .foto img {
+  width: 160px;
+  margin: 10px 0px;
+}
+.select-1 .foto h5 {
+  width: 230px;
+}
+.select-1 .foto-1 {
+  margin-top: 120px;
+  margin-left: -40px;
+}
+.select-1 .foto-1 img {
+  width: 160px;
+  margin: 10px 0px;
+}
+.select-1 .foto-1 h5 {
+  width: 230px;
+}
+.select-1 .foto-2 {
+  margin-top: 150px;
+  margin-left: -40px;
+}
+.select-1 .foto-2 img {
+  width: 160px;
+  margin: 10px 0px;
+}
+.select-1 .foto-2 h5 {
+  width: 230px;
+}
+.select-1 .foto-3 {
+  margin-top: 150px;
+  margin-left: -40px;
+}
+.select-1 .foto-3 img {
+  width: 160px;
+  margin: 10px 0px;
+}
+.select-1 .foto-3 h5 {
+  width: 230px;
 }/*# sourceMappingURL=main.css.map */
